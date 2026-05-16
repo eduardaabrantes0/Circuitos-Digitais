@@ -1,24 +1,40 @@
-Projeto de Circuitos Digitais — ULA (Unidade Lógica Aritmética)
+# Projeto de Circuitos Digitais — ULA
 
-Este repositório apresenta o desenvolvimento de uma Unidade Lógica Aritmética (ULA) utilizando o software Logisim Evolution, como parte da disciplina de Circuitos Digitais da Universidade Federal Rural do Semi-Árido.
+## 👨‍🎓 Discentes
+- Maria Eduarda Abrantes da Silva  
+- João Vitor Moreno Matos  
 
-O projeto tem como objetivo implementar uma ULA capaz de realizar operações aritméticas e lógicas com entradas de 4 bits, aplicando conceitos fundamentais de eletrônica digital, como portas lógicas, somadores, multiplexadores e circuitos combinacionais.
+---
 
-Operações Implementadas
-00 → Soma
-01 → Subtração
-10 → AND
-11 → XOR
+## 📚 Sobre o Projeto
 
-Além das operações, o circuito conta com:
+Este projeto apresenta o desenvolvimento de uma *ULA (Unidade Lógica Aritmética)* no  [oai_citation:0‡github.com](https://github.com/logisim-evolution/logisim-evolution?utm_source=chatgpt.com), como parte da disciplina de Circuitos Digitais da UFERSA.
 
-Exibição dos operandos e resultados em displays de 7 segmentos;
-Verificação de overflow aritmético;
-Organização hierárquica em blocos no Logisim;
-Tabela de operações para facilitar os testes e a visualização do funcionamento da ULA.
-Discentes
-Maria Eduarda Abrantes da Silva
-João Vitor Moreno Matos
-Objetivo do Projeto
+A ULA realiza operações lógicas e aritméticas com entradas de 4 bits, utilizando multiplexadores e portas lógicas.
 
-Desenvolver uma ULA funcional e otimizada, reforçando os conhecimentos adquiridos em circuitos digitais e arquitetura básica de computadores, além de estimular a prática de desenvolvimento de projetos em hardware digital.
+---
+
+## ⚙️ Operações
+
+| Seleção | Operação |
+|---|---|
+| 00 | Soma |
+| 01 | Subtração |
+| 10 | AND |
+| 11 | XOR |
+
+---
+
+## 🖥️ Funcionalidades
+
+- Seleção de operações através de multiplexador;
+- Processamento de dados binários de 4 bits;
+- Operações lógicas e aritméticas;
+- Exibição dos resultados em display de 7 segmentos;
+- Simulação do funcionamento básico de uma ULA.
+
+---
+
+## 🎯 Objetivo
+
+Aplicar conceitos de circuitos digitais e arquitetura básica de computadores através da implementação de uma ULA funcional.
