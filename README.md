@@ -8,7 +8,7 @@
 
 ## 📚 Sobre o Projeto
 
-Este projeto apresenta o desenvolvimento de uma *ULA (Unidade Lógica Aritmética)* no  [oai_citation:0‡github.com](https://github.com/logisim-evolution/logisim-evolution?utm_source=chatgpt.com), como parte da disciplina de Circuitos Digitais da UFERSA.
+Este projeto apresenta o desenvolvimento de uma *ULA (Unidade Lógica Aritmética)*, como parte da disciplina de Circuitos Digitais da UFERSA.
 
 A ULA realiza operações lógicas e aritméticas com entradas de 4 bits, utilizando multiplexadores e portas lógicas.
 
